@@ -1,6 +1,4 @@
-# QORT-Net
-
-**Bearing remaining useful life prediction with causal vibration descriptors and training-fold lifetime priors.**
+# QORT-Net: fusing healthy-relative vibration representations with training-fold lifetime priors for bearing remaining useful life prediction
 
 This repository distributes the QORT-Net v1.1 research code, feature caches,
 archived model checkpoints, experiment results and figure/table source data for
