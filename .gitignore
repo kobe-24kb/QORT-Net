@@ -1,0 +1,23 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+# Editors and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+# Private raw datasets and generated verification runs
+data/raw/
+code/data/
+verification_output/
+manuscript/
+figures/
+# Local execution logs; archived results and checkpoints are intentionally tracked
+logs/
+*.log

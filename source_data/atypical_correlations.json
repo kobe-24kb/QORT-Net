@@ -1,0 +1,53 @@
+{
+  "gain_vs_clock": {
+    "spearman_rho": 0.82,
+    "p": 9.3825997008208e-07,
+    "n": 24
+  },
+  "gain_vs_prior_only": {
+    "spearman_rho": 0.7695652173913042,
+    "p": 1.1025001346267028e-05,
+    "n": 24
+  },
+  "single_minus_full": {
+    "spearman_rho": -0.03130434782608695,
+    "p": 0.884546955655295,
+    "n": 24
+  },
+  "static_minus_full": {
+    "spearman_rho": 0.4252173913043478,
+    "p": 0.03832022472876961,
+    "n": 24
+  },
+  "error_vs_abs_deviation": {
+    "qort_net": {
+      "spearman_rho": 0.4139130434782608,
+      "p": 0.044355692190527395
+    },
+    "median_lifetime_clock": {
+      "spearman_rho": 0.954782608695652,
+      "p": 4.514354728610979e-13
+    },
+    "qort_prior_only": {
+      "spearman_rho": 0.9026086956521738,
+      "p": 1.6324184374509252e-09
+    },
+    "gru_time_prior": {
+      "spearman_rho": 0.3556521739130434,
+      "p": 0.0880823216085084
+    },
+    "film_time_prior": {
+      "spearman_rho": 0.5217391304347825,
+      "p": 0.008926065916873628
+    }
+  },
+  "groups": {
+    "threshold": 0.25,
+    "atypical_n": 13,
+    "typical_n": 11,
+    "atypical_gain_vs_clock": 0.09834677057388502,
+    "typical_gain_vs_clock": -0.08102880440878146,
+    "atypical_gain_vs_prior_only": 0.08556588681844565,
+    "typical_gain_vs_prior_only": -0.07648173019741521
+  }
+}

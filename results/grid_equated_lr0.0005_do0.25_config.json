@@ -1,0 +1,23 @@
+{
+  "dataset": "both",
+  "features": "F:\\04\u661f\u9014\u6559\u80b2\\hexin\\rul_2026\\QORT-Net_2026\\resubmission_MST-139555_20261017\\data\\features",
+  "output": "F:\\04\u661f\u9014\u6559\u80b2\\hexin\\rul_2026\\QORT-Net_2026\\resubmission_MST-139555_20261017\\results",
+  "tag": "grid_equated_lr0.0005_do0.25",
+  "models": "gru,film",
+  "seeds": "7,21,42",
+  "window": 20,
+  "patch_size": 4,
+  "hidden_dim": 48,
+  "dropout": 0.25,
+  "batch_size": 128,
+  "epochs": 100,
+  "patience": 14,
+  "learning_rate": 0.0005,
+  "device": "auto",
+  "information_equated": true,
+  "weight_decay": 0.0001,
+  "plateau_patience": 4,
+  "lambda_over": 0.0,
+  "model_suffix": "_lr0.0005_do0.25",
+  "save_checkpoints": false
+}

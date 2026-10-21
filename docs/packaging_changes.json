@@ -1,0 +1,26 @@
+{
+  "research_release": "v1.1",
+  "packaged_on": "2026-10-21",
+  "modified_original_files": {
+    "code/extract_condition_features.py": {
+      "original_sha256": "f83c579615423f9224e5e1e66318e50efc3ed42b863caae8ec4a6966b1ddd18c",
+      "github_sha256": "5f329b8d5accce85284c9a012da4cdef58cc065577f8ae45327ce9705c0c3057"
+    },
+    "code/prepare_features.py": {
+      "original_sha256": "4cd646c6ae03130f8fb20c7a0188b03a9ee556107d60130b6f6e712850e5594c",
+      "github_sha256": "2553bbb00873cd16300c7fbfa40b64faafbc94a32213764f000700626db68804"
+    },
+    "code/queues/common.sh": {
+      "original_sha256": "207b6e7c5ed01d303e50a8a694adfe81be0dc64c3ded107974c66e5f17d25f7b",
+      "github_sha256": "4c240c55aba9f59276ee24719e0510ef5d767444f0616591e6df2ac29344e903"
+    },
+    "code/README.md": {
+      "original_sha256": "84ee6d89df28f8833ed3e17c03bfac98cc4d7a9a563ac319514eba0796f1515b",
+      "github_sha256": "16760aae064f4a2c937897132b493a87d9cd0ec52fb245a0a9e77cc8b6d3ecfe"
+    },
+    "README.md": {
+      "original_sha256": "84ee6d89df28f8833ed3e17c03bfac98cc4d7a9a563ac319514eba0796f1515b",
+      "github_sha256": "f0e3a3d7c93f4ea054972f396597906d23f63e4c906c2a7e7e738745d3d3d234"
+    }
+  }
+}

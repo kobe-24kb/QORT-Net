@@ -1,0 +1,37 @@
+[
+  {
+    "dataset": "xjtu_c1",
+    "bearing": "Bearing1_1",
+    "snapshots": 123,
+    "features": 42,
+    "output": "F:\\04\u661f\u9014\u6559\u80b2\\hexin\\rul_2026\\QORT-Net_2026\\resubmission_MST-139555_20261017\\data\\features\\xjtu_c1_Bearing1_1.npz"
+  },
+  {
+    "dataset": "xjtu_c1",
+    "bearing": "Bearing1_2",
+    "snapshots": 161,
+    "features": 42,
+    "output": "F:\\04\u661f\u9014\u6559\u80b2\\hexin\\rul_2026\\QORT-Net_2026\\resubmission_MST-139555_20261017\\data\\features\\xjtu_c1_Bearing1_2.npz"
+  },
+  {
+    "dataset": "xjtu_c1",
+    "bearing": "Bearing1_3",
+    "snapshots": 158,
+    "features": 42,
+    "output": "F:\\04\u661f\u9014\u6559\u80b2\\hexin\\rul_2026\\QORT-Net_2026\\resubmission_MST-139555_20261017\\data\\features\\xjtu_c1_Bearing1_3.npz"
+  },
+  {
+    "dataset": "xjtu_c1",
+    "bearing": "Bearing1_4",
+    "snapshots": 122,
+    "features": 42,
+    "output": "F:\\04\u661f\u9014\u6559\u80b2\\hexin\\rul_2026\\QORT-Net_2026\\resubmission_MST-139555_20261017\\data\\features\\xjtu_c1_Bearing1_4.npz"
+  },
+  {
+    "dataset": "xjtu_c1",
+    "bearing": "Bearing1_5",
+    "snapshots": 52,
+    "features": 42,
+    "output": "F:\\04\u661f\u9014\u6559\u80b2\\hexin\\rul_2026\\QORT-Net_2026\\resubmission_MST-139555_20261017\\data\\features\\xjtu_c1_Bearing1_5.npz"
+  }
+]

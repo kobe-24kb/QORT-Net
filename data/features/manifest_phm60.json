@@ -1,0 +1,44 @@
+[
+  {
+    "dataset": "phm60",
+    "bearing": "Bearing1_1",
+    "snapshots": 468,
+    "output": "phm60_Bearing1_1.npz"
+  },
+  {
+    "dataset": "phm60",
+    "bearing": "Bearing1_2",
+    "snapshots": 146,
+    "output": "phm60_Bearing1_2.npz"
+  },
+  {
+    "dataset": "phm60",
+    "bearing": "Bearing1_3",
+    "snapshots": 396,
+    "output": "phm60_Bearing1_3.npz"
+  },
+  {
+    "dataset": "phm60",
+    "bearing": "Bearing1_4",
+    "snapshots": 238,
+    "output": "phm60_Bearing1_4.npz"
+  },
+  {
+    "dataset": "phm60",
+    "bearing": "Bearing1_5",
+    "snapshots": 411,
+    "output": "phm60_Bearing1_5.npz"
+  },
+  {
+    "dataset": "phm60",
+    "bearing": "Bearing1_6",
+    "snapshots": 408,
+    "output": "phm60_Bearing1_6.npz"
+  },
+  {
+    "dataset": "phm60",
+    "bearing": "Bearing1_7",
+    "snapshots": 377,
+    "output": "phm60_Bearing1_7.npz"
+  }
+]

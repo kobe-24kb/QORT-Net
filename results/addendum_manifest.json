@@ -1,0 +1,8 @@
+{
+  "addendum": "cross-condition transfer",
+  "recorded_at_utc": "2026-10-17T10:52:47",
+  "files": {
+    "results/PRESPECIFIED_ADDENDUM_transfer.md": "035a77293bc3f4a8ee0b1f1e8ee950753192001a2389177cf650ad4afe416c06",
+    "code/run_transfer.py": "56e6536b545b2d69d13a1b8ed8658c954853b3e9a00b9e7e51465d86c1b8db5b"
+  }
+}

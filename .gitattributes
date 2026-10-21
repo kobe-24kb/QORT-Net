@@ -1,0 +1,5 @@
+# Preserve exact bytes of research artifacts and their frozen SHA-256 hashes.
+# Newly added and patched scripts are saved with LF line endings.
+* -text
+*.npz binary
+*.pt binary

@@ -1,0 +1,51 @@
+[
+  {
+    "dataset": "phm_c2",
+    "bearing": "Bearing2_1",
+    "snapshots": 911,
+    "features": 42,
+    "output": "F:\\04\u661f\u9014\u6559\u80b2\\hexin\\rul_2026\\QORT-Net_2026\\resubmission_MST-139555_20261017\\data\\features\\phm_c2_Bearing2_1.npz"
+  },
+  {
+    "dataset": "phm_c2",
+    "bearing": "Bearing2_2",
+    "snapshots": 797,
+    "features": 42,
+    "output": "F:\\04\u661f\u9014\u6559\u80b2\\hexin\\rul_2026\\QORT-Net_2026\\resubmission_MST-139555_20261017\\data\\features\\phm_c2_Bearing2_2.npz"
+  },
+  {
+    "dataset": "phm_c2",
+    "bearing": "Bearing2_3",
+    "snapshots": 1955,
+    "features": 42,
+    "output": "F:\\04\u661f\u9014\u6559\u80b2\\hexin\\rul_2026\\QORT-Net_2026\\resubmission_MST-139555_20261017\\data\\features\\phm_c2_Bearing2_3.npz"
+  },
+  {
+    "dataset": "phm_c2",
+    "bearing": "Bearing2_4",
+    "snapshots": 751,
+    "features": 42,
+    "output": "F:\\04\u661f\u9014\u6559\u80b2\\hexin\\rul_2026\\QORT-Net_2026\\resubmission_MST-139555_20261017\\data\\features\\phm_c2_Bearing2_4.npz"
+  },
+  {
+    "dataset": "phm_c2",
+    "bearing": "Bearing2_5",
+    "snapshots": 2311,
+    "features": 42,
+    "output": "F:\\04\u661f\u9014\u6559\u80b2\\hexin\\rul_2026\\QORT-Net_2026\\resubmission_MST-139555_20261017\\data\\features\\phm_c2_Bearing2_5.npz"
+  },
+  {
+    "dataset": "phm_c2",
+    "bearing": "Bearing2_6",
+    "snapshots": 701,
+    "features": 42,
+    "output": "F:\\04\u661f\u9014\u6559\u80b2\\hexin\\rul_2026\\QORT-Net_2026\\resubmission_MST-139555_20261017\\data\\features\\phm_c2_Bearing2_6.npz"
+  },
+  {
+    "dataset": "phm_c2",
+    "bearing": "Bearing2_7",
+    "snapshots": 230,
+    "features": 42,
+    "output": "F:\\04\u661f\u9014\u6559\u80b2\\hexin\\rul_2026\\QORT-Net_2026\\resubmission_MST-139555_20261017\\data\\features\\phm_c2_Bearing2_7.npz"
+  }
+]

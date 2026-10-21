@@ -1,0 +1,22 @@
+{
+  "addendum": "core-component ablations (release v1.1)",
+  "recorded_at_utc": "2026-10-17T14:25:25",
+  "files": {
+    "results/PRESPECIFIED_ADDENDUM_core_ablations.md": "9fe535dd9b911ee7f0981b501fa4b62c7ebc7cddfb8dd86958282549b810f3de",
+    "code\\analyze_resubmission.py": "b4bade7a946b7e6f6dd51e1ab755fecf279a2a80e24b89301f7149537058ab74",
+    "code\\analyze_sensitivity.py": "eefcfb4ad24cbff85352adae31294775337faccb9a110b92f77b7aad7f75f46d",
+    "code\\extract_condition_features.py": "f83c579615423f9224e5e1e66318e50efc3ed42b863caae8ec4a6966b1ddd18c",
+    "code\\freeze_release.py": "1d5feeddac6a9aac3368468e5329fa577fee29e34af71e177ca8bca8f855041b",
+    "code\\make_numbers.py": "c678fdf91d8783158af7946f0af3f60422dec02b7522ec59e38b352470b22695",
+    "code\\make_resubmission_figures.py": "1fcf18e15feecb6be80fc5e928ba501572bad3a597ff3b5a2f0c4081871261ce",
+    "code\\prepare_features.py": "4cd646c6ae03130f8fb20c7a0188b03a9ee556107d60130b6f6e712850e5594c",
+    "code\\prior_shift_eval.py": "9107ddf71d0d40b76ac690768dcda74e83a57b3d4a0e488dd43dda0cb9256e67",
+    "code\\protocol.py": "13fead6a9a30a63f284ee341644879db78ac9ff7c78a5f00e0384187b914dc3c",
+    "code\\qort_net.py": "f6904c5334c79c459f7dd3c235a8867441f0d0ca8ae79a3d603bf8bf8bbe0089",
+    "code\\run_experiments.py": "9d8664e5f12b468d5c0a4bfdc5a66398e7dc4035809f569f9776682c9a890987",
+    "code\\run_targeted_baselines.py": "42426bdb1b1a5d93a0c575697ec34ff44e7137efce2343960e7b8924434bc515",
+    "code\\run_transfer.py": "56e6536b545b2d69d13a1b8ed8658c954853b3e9a00b9e7e51465d86c1b8db5b",
+    "code\\run_trivial_baselines.py": "98684e11712d6e8c20fe67e8586a3daff952f52e9a72a95555005fffaa244f66",
+    "code\\targeted_baselines.py": "76ea7e1074fef596eba7965c9ee02ec1a225b6fae5080f2bf3882b99a7194793"
+  }
+}
